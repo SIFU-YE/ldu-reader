@@ -1,0 +1,7 @@
+python-docx>=1.2.0
+ltp>=4.2.14
+torch>=2.0.0
+# LTP 兼容性：ltp 4.2.x 的 pipeline 依赖 transformers<5；
+# 否则打包机/开发机安装 transformers 5.x 后，core.py 进程内 LTP 加载失败（无 _batch_encode_plus 补丁）。
+# exe 交付本身经 collect_all 固化依赖，不受本约束影响；此约束保护【打包机/开发机】。
+transformers<5

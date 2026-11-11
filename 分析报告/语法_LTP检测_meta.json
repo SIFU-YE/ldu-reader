@@ -1,0 +1,8 @@
+{
+  "generated_at": "2026-08-17T16:50:52.727290",
+  "git_commit": "a40b13e060a01416ce96c0a1c4bd177056b11d2b",
+  "model": "LTP/small",
+  "corpus_sha256": "7e55e92b61d1349d1de7f4a5282425b1e9f977eb43b3c5af0e8f3d74912700e0",
+  "chunk_count": 2220,
+  "sentence_count": 2220
+}

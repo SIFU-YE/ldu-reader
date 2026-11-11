@@ -1,0 +1,53 @@
+# 构建产物与临时文件
+dist/
+build/
+wb_*/
+*.spec
+*.pyc
+__pycache__/
+.pytest_cache/
+*.zip
+
+# 测试目录
+test_*/
+test_*.txt
+
+# 原始下载数据（体积大/不必要）
+hsk30*.csv
+
+# LTP 模型：分片（.partN）随仓库提交（Gitee 不支持 git-lfs 且单文件限 100MB，
+# 故 bin 按 90MB 分片入库）；运行时会自动合并为 pytorch_model.bin，
+# 合并产物/缓存/临时文件不提交。
+LTP/.cache/
+LTP/*.tmp
+LTP/small/pytorch_model.bin
+
+# Reasonix 工作区元数据（附件/任务状态，不提交）
+.reasonix/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 本地安装依赖（python -m pip --target .libs）
+.libs/
+.cache/
+
+# 用户上传的51MB扫描版《国际中文教育中文水平等级标准》（非文化参考框架，暂不纳入仓库）
+资料/国际中文教育中文水平等级标准.pdf
+
+# 用户上传的255MB扫描版《参考框架》应用解读本（仅本地OCR使用，不纳入仓库）
+资料/国际中文和教育用中国文化和国情教学参考框架（解读本）.pdf
+
+# 本地工作产物（不纳入仓库）：构建中间数据、Reasonix 本地配置、用户语料
+build_data/
+reasonix.toml
+语料（已拆分）/
+
+# 分析报告中的新生成产物（历史跟踪的基准报告文件不受影响）
+分析报告/3-1_分析报告（V10教材模式）.docx
+分析报告/3-1_分析结果汇总（V10）.csv
+
+# LTP py3.12 依赖与模型缓存
+.libs312/
+LTP_cache/

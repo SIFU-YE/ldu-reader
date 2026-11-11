@@ -1,0 +1,97 @@
+{
+  "dir": "/www/wwwroot/ldu-reader/资料",
+  "merged": true,
+  "lessons": 75,
+  "merged_chars": 60894,
+  "levels": [
+    {
+      "level": 1,
+      "standard": 497,
+      "covered": 429,
+      "coverage_pct": 86.32,
+      "occ1": 50,
+      "occ2": 28,
+      "occ3": 27,
+      "occ4": 21,
+      "occ_ge5": 303,
+      "reproduced_ge2": 379
+    },
+    {
+      "level": 2,
+      "standard": 766,
+      "covered": 559,
+      "coverage_pct": 72.98,
+      "occ1": 98,
+      "occ2": 61,
+      "occ3": 63,
+      "occ4": 43,
+      "occ_ge5": 294,
+      "reproduced_ge2": 461
+    },
+    {
+      "level": 3,
+      "standard": 962,
+      "covered": 831,
+      "coverage_pct": 86.38,
+      "occ1": 205,
+      "occ2": 150,
+      "occ3": 92,
+      "occ4": 85,
+      "occ_ge5": 299,
+      "reproduced_ge2": 626
+    },
+    {
+      "level": 4,
+      "standard": 983,
+      "covered": 238,
+      "coverage_pct": 24.21,
+      "occ1": 112,
+      "occ2": 36,
+      "occ3": 26,
+      "occ4": 13,
+      "occ_ge5": 51,
+      "reproduced_ge2": 126
+    },
+    {
+      "level": 5,
+      "standard": 1065,
+      "covered": 173,
+      "coverage_pct": 16.24,
+      "occ1": 88,
+      "occ2": 37,
+      "occ3": 17,
+      "occ4": 10,
+      "occ_ge5": 21,
+      "reproduced_ge2": 85
+    },
+    {
+      "level": 6,
+      "standard": 1131,
+      "covered": 116,
+      "coverage_pct": 10.26,
+      "occ1": 54,
+      "occ2": 31,
+      "occ3": 11,
+      "occ4": 7,
+      "occ_ge5": 13,
+      "reproduced_ge2": 62
+    },
+    {
+      "level": 7,
+      "standard": 5617,
+      "covered": 199,
+      "coverage_pct": 3.54,
+      "occ1": 117,
+      "occ2": 41,
+      "occ3": 9,
+      "occ4": 7,
+      "occ_ge5": 25,
+      "reproduced_ge2": 82
+    }
+  ],
+  "generated_at": "2026-08-17T14:35:00.419816",
+  "git_commit": "5864b3cd99dad50ffc200149a8beabb1fdd0c8a3",
+  "model": "LTP/small",
+  "corpus_sha256": "7e55e92b61d1349d1de7f4a5282425b1e9f977eb43b3c5af0e8f3d74912700e0",
+  "chunk_count": 2220
+}

@@ -1,0 +1,662 @@
+{
+  "file": "资料/3-1.docx",
+  "lessons": 15,
+  "per_lesson": [
+    {
+      "lesson": "1",
+      "title": "鱼快乐吗？",
+      "text_hanzi": 327,
+      "char_levels": [
+        73,
+        30,
+        9,
+        4,
+        1,
+        2,
+        0
+      ],
+      "beyond_chars": 0,
+      "total_char_unique": 119,
+      "yueji_char": 7,
+      "word_levels": [
+        42,
+        24,
+        7,
+        1,
+        1,
+        0,
+        1
+      ],
+      "total_word_unique": 76,
+      "yueji_word": 3,
+      "score": 1.6421,
+      "level": "二级"
+    },
+    {
+      "lesson": "2",
+      "title": "拔苗助长",
+      "text_hanzi": 355,
+      "char_levels": [
+        91,
+        27,
+        23,
+        4,
+        2,
+        1,
+        2
+      ],
+      "beyond_chars": 0,
+      "total_char_unique": 150,
+      "yueji_char": 9,
+      "word_levels": [
+        55,
+        25,
+        15,
+        4,
+        2,
+        0,
+        1
+      ],
+      "total_word_unique": 102,
+      "yueji_word": 7,
+      "score": 1.9493,
+      "level": "三级"
+    },
+    {
+      "lesson": "3",
+      "title": "井里的青蛙",
+      "text_hanzi": 478,
+      "char_levels": [
+        96,
+        34,
+        16,
+        2,
+        1,
+        2,
+        2
+      ],
+      "beyond_chars": 0,
+      "total_char_unique": 153,
+      "yueji_char": 7,
+      "word_levels": [
+        65,
+        29,
+        19,
+        2,
+        2,
+        1,
+        2
+      ],
+      "total_word_unique": 120,
+      "yueji_word": 7,
+      "score": 1.949,
+      "level": "三级"
+    },
+    {
+      "lesson": "4",
+      "title": "精卫填海",
+      "text_hanzi": 335,
+      "char_levels": [
+        79,
+        32,
+        16,
+        3,
+        1,
+        6,
+        4
+      ],
+      "beyond_chars": 0,
+      "total_char_unique": 141,
+      "yueji_char": 14,
+      "word_levels": [
+        39,
+        22,
+        10,
+        1,
+        1,
+        0,
+        6
+      ],
+      "total_word_unique": 79,
+      "yueji_word": 8,
+      "score": 1.9432,
+      "level": "三级"
+    },
+    {
+      "lesson": "5",
+      "title": "望梅止渴",
+      "text_hanzi": 461,
+      "char_levels": [
+        105,
+        52,
+        22,
+        5,
+        2,
+        2,
+        1
+      ],
+      "beyond_chars": 0,
+      "total_char_unique": 189,
+      "yueji_char": 10,
+      "word_levels": [
+        69,
+        43,
+        17,
+        3,
+        3,
+        1,
+        1
+      ],
+      "total_word_unique": 137,
+      "yueji_word": 8,
+      "score": 1.7839,
+      "level": "三级"
+    },
+    {
+      "lesson": "6",
+      "title": "世外桃源",
+      "text_hanzi": 429,
+      "char_levels": [
+        102,
+        36,
+        28,
+        8,
+        3,
+        3,
+        4
+      ],
+      "beyond_chars": 0,
+      "total_char_unique": 184,
+      "yueji_char": 18,
+      "word_levels": [
+        57,
+        31,
+        25,
+        6,
+        3,
+        1,
+        2
+      ],
+      "total_word_unique": 125,
+      "yueji_word": 12,
+      "score": 1.8859,
+      "level": "三级"
+    },
+    {
+      "lesson": "7",
+      "title": "“女”“子”就是“好”吗？",
+      "text_hanzi": 389,
+      "char_levels": [
+        84,
+        43,
+        21,
+        6,
+        2,
+        0,
+        6
+      ],
+      "beyond_chars": 0,
+      "total_char_unique": 162,
+      "yueji_char": 14,
+      "word_levels": [
+        49,
+        34,
+        23,
+        7,
+        1,
+        0,
+        1
+      ],
+      "total_word_unique": 115,
+      "yueji_word": 9,
+      "score": 1.8634,
+      "level": "三级"
+    },
+    {
+      "lesson": "8",
+      "title": "吉祥的羊",
+      "text_hanzi": 622,
+      "char_levels": [
+        118,
+        68,
+        39,
+        13,
+        4,
+        4,
+        3
+      ],
+      "beyond_chars": 0,
+      "total_char_unique": 249,
+      "yueji_char": 24,
+      "word_levels": [
+        62,
+        42,
+        35,
+        10,
+        3,
+        2,
+        7
+      ],
+      "total_word_unique": 161,
+      "yueji_word": 22,
+      "score": 1.9523,
+      "level": "三级"
+    },
+    {
+      "lesson": "9",
+      "title": "为什么叫“筷子”？",
+      "text_hanzi": 441,
+      "char_levels": [
+        99,
+        50,
+        24,
+        3,
+        5,
+        1,
+        2
+      ],
+      "beyond_chars": 1,
+      "total_char_unique": 185,
+      "yueji_char": 11,
+      "word_levels": [
+        56,
+        34,
+        24,
+        4,
+        5,
+        3,
+        5
+      ],
+      "total_word_unique": 131,
+      "yueji_word": 17,
+      "score": 1.9653,
+      "level": "三级"
+    },
+    {
+      "lesson": "10",
+      "title": "千里送鹅毛",
+      "text_hanzi": 401,
+      "char_levels": [
+        94,
+        48,
+        18,
+        4,
+        4,
+        3,
+        7
+      ],
+      "beyond_chars": 1,
+      "total_char_unique": 179,
+      "yueji_char": 18,
+      "word_levels": [
+        63,
+        32,
+        19,
+        7,
+        3,
+        2,
+        3
+      ],
+      "total_word_unique": 129,
+      "yueji_word": 15,
+      "score": 2.0503,
+      "level": "四级"
+    },
+    {
+      "lesson": "11",
+      "title": "买“东西”还是买“南北”？",
+      "text_hanzi": 465,
+      "char_levels": [
+        111,
+        40,
+        25,
+        1,
+        0,
+        2,
+        2
+      ],
+      "beyond_chars": 2,
+      "total_char_unique": 183,
+      "yueji_char": 5,
+      "word_levels": [
+        58,
+        34,
+        27,
+        4,
+        4,
+        1,
+        2
+      ],
+      "total_word_unique": 130,
+      "yueji_word": 11,
+      "score": 1.8477,
+      "level": "三级"
+    },
+    {
+      "lesson": "12",
+      "title": "今天你被“亲”了吗？",
+      "text_hanzi": 485,
+      "char_levels": [
+        107,
+        55,
+        34,
+        5,
+        2,
+        1,
+        3
+      ],
+      "beyond_chars": 1,
+      "total_char_unique": 208,
+      "yueji_char": 11,
+      "word_levels": [
+        63,
+        40,
+        36,
+        9,
+        3,
+        0,
+        2
+      ],
+      "total_word_unique": 153,
+      "yueji_word": 14,
+      "score": 1.8767,
+      "level": "三级"
+    },
+    {
+      "lesson": "13",
+      "title": "中国的情人节",
+      "text_hanzi": 574,
+      "char_levels": [
+        111,
+        52,
+        32,
+        5,
+        6,
+        3,
+        5
+      ],
+      "beyond_chars": 7,
+      "total_char_unique": 221,
+      "yueji_char": 19,
+      "word_levels": [
+        59,
+        34,
+        23,
+        7,
+        2,
+        4,
+        5
+      ],
+      "total_word_unique": 134,
+      "yueji_word": 18,
+      "score": 1.9137,
+      "level": "三级"
+    },
+    {
+      "lesson": "14",
+      "title": "母亲的爱",
+      "text_hanzi": 547,
+      "char_levels": [
+        115,
+        57,
+        27,
+        14,
+        2,
+        1,
+        4
+      ],
+      "beyond_chars": 2,
+      "total_char_unique": 222,
+      "yueji_char": 21,
+      "word_levels": [
+        64,
+        37,
+        28,
+        9,
+        1,
+        1,
+        4
+      ],
+      "total_word_unique": 144,
+      "yueji_word": 15,
+      "score": 1.9993,
+      "level": "三级"
+    },
+    {
+      "lesson": "15",
+      "title": "人面桃花",
+      "text_hanzi": 602,
+      "char_levels": [
+        124,
+        48,
+        25,
+        5,
+        6,
+        0,
+        1
+      ],
+      "beyond_chars": 1,
+      "total_char_unique": 210,
+      "yueji_char": 12,
+      "word_levels": [
+        82,
+        38,
+        29,
+        4,
+        8,
+        0,
+        5
+      ],
+      "total_word_unique": 166,
+      "yueji_word": 17,
+      "score": 1.8175,
+      "level": "三级"
+    }
+  ],
+  "averages": {
+    "char": {
+      "levels": [
+        100.6,
+        44.8,
+        23.933333333333334,
+        5.466666666666667,
+        2.7333333333333334,
+        2.066666666666667,
+        3.066666666666667
+      ],
+      "yueji": 13.333333333333332,
+      "beyond": 1,
+      "total": 183.66666666666666,
+      "pct_levels": [
+        54.77,
+        24.39,
+        13.03,
+        2.98,
+        1.49,
+        1.13,
+        1.67
+      ],
+      "pct_yueji": 7.26,
+      "pct_beyond": 0.54
+    },
+    "word": {
+      "levels": [
+        58.86666666666667,
+        33.266666666666666,
+        22.466666666666665,
+        5.2,
+        2.8,
+        1.0666666666666667,
+        3.1333333333333333
+      ],
+      "yueji": 12.2,
+      "total": 126.8,
+      "pct_levels": [
+        46.42,
+        26.24,
+        17.72,
+        4.1,
+        2.21,
+        0.84,
+        2.47
+      ],
+      "pct_yueji": 9.62
+    }
+  },
+  "whole_volume": {
+    "char": {
+      "level3_standard": 300,
+      "covered": 176,
+      "coverage_pct": 58.67,
+      "occur_once": 60,
+      "occur_twice": 37,
+      "occur_3": 26,
+      "occur_ge4": 53,
+      "reproduced_ge2": 116
+    },
+    "word_official": {
+      "level3_unique": 953,
+      "covered": 208,
+      "coverage_pct": 21.83,
+      "occur_once": 117,
+      "occur_twice": 38,
+      "occur_3": 20,
+      "occur_ge4": 33,
+      "reproduced_ge2": 91
+    },
+    "word_standard_entries": {
+      "level3_entries": 973,
+      "level3_unique": 969,
+      "covered_entries": 213,
+      "covered_unique": 212,
+      "coverage_entries_pct": 21.89
+    },
+    "grammar": {
+      "level3_standard": 81,
+      "detectable": 71,
+      "hit_detectable": 45,
+      "hit_all": 45,
+      "hit_detectable_pct": 63.38,
+      "hit_all_pct": 55.56,
+      "project_total": 10,
+      "project_covered": 9,
+      "project_covered_names": [
+        "口语格式",
+        "句子成分",
+        "句子的类型",
+        "固定格式",
+        "强调的方法",
+        "特殊表达法",
+        "短语",
+        "词类",
+        "语素"
+      ],
+      "project_missing_names": [
+        "提问的方法"
+      ],
+      "missing": [
+        "132",
+        "133",
+        "141",
+        "145",
+        "151",
+        "152",
+        "162",
+        "164",
+        "166",
+        "167",
+        "169",
+        "170",
+        "173",
+        "174",
+        "175",
+        "180",
+        "181",
+        "182",
+        "183",
+        "186",
+        "189",
+        "191",
+        "192",
+        "194",
+        "195",
+        "196",
+        "197",
+        "198",
+        "199",
+        "200",
+        "201",
+        "205",
+        "207",
+        "208",
+        "209",
+        "210"
+      ]
+    },
+    "culture": {
+      "first_level_covered": [
+        "社会生活",
+        "传统文化",
+        "当代中国"
+      ],
+      "first_level_total": [
+        "社会生活",
+        "传统文化",
+        "当代中国"
+      ],
+      "second_level_total": 32,
+      "lesson_map": {
+        "1": {
+          "传统文化": "庄子哲学故事"
+        },
+        "2": {
+          "传统文化": "成语寓言·拔苗助长"
+        },
+        "3": {
+          "传统文化": "成语寓言·井底之蛙"
+        },
+        "4": {
+          "传统文化": "神话·精卫填海"
+        },
+        "5": {
+          "传统文化": "成语故事·望梅止渴"
+        },
+        "6": {
+          "传统文化": "桃花源记·世外桃源"
+        },
+        "7": {
+          "传统文化": "汉字文化·女/子/好"
+        },
+        "8": {
+          "传统文化": "生肖/吉祥文化·羊"
+        },
+        "9": {
+          "传统文化": "器物/饮食文化·筷子",
+          "社会生活": "日常饮食器物"
+        },
+        "10": {
+          "传统文化": "成语/礼俗·千里送鹅毛"
+        },
+        "11": {
+          "传统文化": "语言文化·买东西"
+        },
+        "12": {
+          "传统文化": "网络语言·亲",
+          "当代中国": "网络文化"
+        },
+        "13": {
+          "传统文化": "传统节日·七夕/情人节",
+          "社会生活": "节日与婚恋",
+          "当代中国": "当代节日生活"
+        },
+        "14": {
+          "社会生活": "亲情·母爱",
+          "当代中国": "当代家庭生活"
+        },
+        "15": {
+          "传统文化": "唐诗·题都城南庄"
+        }
+      }
+    }
+  }
+}
